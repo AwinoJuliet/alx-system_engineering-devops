@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 filename
+chmod -R ugo+X 
